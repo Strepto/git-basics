@@ -1,5 +1,7 @@
-dette er en
+dette er ena
 fil
 med en 
 del linjer
 og innhold
+
+enda mer ok
